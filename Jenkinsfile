@@ -3,7 +3,6 @@ pipeline{
   agent any
 
   tools{
-   jdk 'JAVA_HOME'
     maven "maven"
   }
 
